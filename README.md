@@ -2,7 +2,7 @@
 
 ## Antes de empezar..
 
-##### Te sugerimos ir a seguir los pasos del archivo "README.md" del repositorio que pertenece al back-end de este proyecto: <a href="https://github.com/martinferrando2005/Ecommerce-BACKEND.git">Ecommerce-BACKEND</a>
+##### Te sugerimos ir a seguir los pasos del archivo "README.md" del repositorio que pertenece al back-end de este proyecto: <a href="https://github.com/MateoNava/Ecommerce-BACKEND">Ecommerce-BACKEND</a>
 
 ## Descripcion
 <p> Retro Futbol Club es un E-commerce el cual surge como un proyecto propuesto por <a href="https://www.plataforma5.la/" target="blank">Plataforma 5 - Coding Bootcamp.</a> 
